@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="checkIP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/checkIP_jar</output-path>
+    <root id="archive" name="checkIP.jar">
+      <element id="module-output" name="checkIP" />
+    </root>
+  </artifact>
+</component>
